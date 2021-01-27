@@ -1,7 +1,7 @@
-package main
+package bar
 
 import "fmt"
 
 func Bar() {
-	fmt.Println("bar")
+	fmt.Println("Bar")
 }
